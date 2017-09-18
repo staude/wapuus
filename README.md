@@ -7,5 +7,6 @@ In diesem Repository liegen die Wapuus die im Umfeld der WordPress Meetups Nürn
 
 Polyglots Wapuu von Eurotext AG/Martin Purrer
 
-
 WordPress.TV Wapuus von Eurotext AG/Martin Purrer
+
+Robert Wapuus von Eurotext AG/Martin Purrer
