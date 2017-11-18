@@ -9,4 +9,6 @@ Polyglots Wapuu von Eurotext AG/Martin Purrer
 
 WordPress.TV Wapuus von Eurotext AG/Martin Purrer
 
-Robert Wapuus von Eurotext AG/Martin Purrer
+Robert Wapuu von Eurotext AG/Martin Purrer
+
+Carole Wapuu von Eurotext AG/Martin Purrer
