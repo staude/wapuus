@@ -12,3 +12,6 @@ WordPress.TV Wapuus von Eurotext AG/Martin Purrer
 Robert Wapuu von Eurotext AG/Martin Purrer
 
 Carole Wapuu von Eurotext AG/Martin Purrer
+
+WordCamp Würzburg Super Wapuu (wapuu-WCWUE_Superwapuu_2018) von Eurotext AG/Martin Purrer
+
