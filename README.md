@@ -15,3 +15,6 @@ Carole Wapuu von Eurotext AG/Martin Purrer
 
 WordCamp Würzburg Super Wapuu (wapuu-WCWUE_Superwapuu_2018) von Eurotext AG/Martin Purrer
 
+Bernhard Wapuu von Eurotext AG/Martin Purrer
+
+
