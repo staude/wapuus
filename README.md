@@ -17,4 +17,5 @@ WordCamp Würzburg Super Wapuu (wapuu-WCWUE_Superwapuu_2018) von Eurotext AG/Mar
 
 Bernhard Wapuu von Eurotext AG/Martin Purrer
 
+Dojo Wapuu von Eurotext AG/Martin Purrer
 
